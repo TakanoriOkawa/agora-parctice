@@ -1,5 +1,10 @@
 # agora-practice
 
+## 説明
+以下のサイトのハンズオンです。
+agoraについてです。
+https://zenn.dev/yoshii0110/articles/6a364df517ef35
+
 ## Build Setup
 
 ```bash
